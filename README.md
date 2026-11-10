@@ -32,7 +32,7 @@ Do not rename the folder and do not use the Dragonfly Python Plugin Generator: c
 
 ## User Guide
 
-The complete step-by-step workflow, with all inputs, outputs, options and troubleshooting, is described in the User Guide Geo_DECT.pdf file.
+The complete step-by-step workflow, with all inputs, outputs, options and troubleshooting, is described in the [User Guide](User_Guide_Geo_DECT.pdf).
 
 ## Example data
 
